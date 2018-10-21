@@ -1,2 +1,2 @@
 # rwt_tulipan
-Revival of old polish RWT Tulipan telephone with SIM900 module.
+Revival of old polish RWT Tulipan telephone with ATMEGA8 and SIM900 module.
